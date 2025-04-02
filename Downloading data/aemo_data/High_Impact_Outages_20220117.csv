@@ -1,0 +1,744 @@
+Region,NSP,Start,Finish,Network Asset,Impact,Recall,Status,"Status and
+Market Notice",Project Work?,Unplanned?,DNSP Aware?,Generator Aware?,Inter-Regional,"Reason and
+Duration",Duration,,,,,,,
+QLD,Powerlink,"18/01/2022 08:30
+Tuesday","18/01/2022 14:00
+Tuesday",Ross No.4 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 1 hr-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,,,,"Maintenance
+5.5 Hours",5.5 Hours,,,,,,,
+VIC,AusNet,"27/01/2022 06:30
+Thursday","27/01/2022 14:30
+Thursday",Hazelwood - Cranbourne 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,,,,"Maintenance
+8 Hours",8 Hours,,,,,,,
+TAS,TasNetworks,"15/02/2022 07:00
+Tuesday","18/02/2022 15:00
+Friday",Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 48 hrs-Night: 48 hrs,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,T,,"Commissioning
+3.3 Days",3.3 Days,,,,,,,
+NSW,Transgrid,"19/02/2022 05:30
+Saturday","19/02/2022 15:00
+Saturday",Lower Tumut - Wagga  (051) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer 
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"Commissioning
+9.5 Hours",9.5 Hours,,,,,,,
+TAS,TasNetworks,"24/02/2022 07:00
+Thursday","24/02/2022 15:00
+Thursday",Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"Commissioning
+8 Hours",8 Hours,,,,,,,
+VIC,AusNet,"01/03/2022 06:00
+Tuesday","01/03/2022 15:00
+Tuesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"01/03/2022 06:00
+Tuesday","01/03/2022 15:00
+Tuesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"02/03/2022 06:00
+Wednesday","02/03/2022 15:00
+Wednesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"03/03/2022 06:00
+Thursday","03/03/2022 15:00
+Thursday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+NSW,Transgrid,"15/03/2022 05:00
+Tuesday","19/03/2022 13:00
+Saturday",Armidale - Tamworth (85) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 8 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,T,"Commissioning
+4.3 Days",4.3 Days,,,,,,,
+NSW,Transgrid,"15/03/2022 05:00
+Tuesday","15/03/2022 19:00
+Tuesday",Tamworth No.3 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: 2 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+14 Hours",14 Hours,,,,,,,
+NSW,Transgrid,"16/03/2022 05:00
+Wednesday","16/03/2022 19:00
+Wednesday",Tamworth No.3 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: 2 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+14 Hours",14 Hours,,,,,,,
+NSW,Transgrid,"17/03/2022 05:00
+Thursday","17/03/2022 19:00
+Thursday",Tamworth No.3 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: 2 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+14 Hours",14 Hours,,,,,,,
+NSW,Transgrid,"21/03/2022 05:00
+Monday","21/03/2022 17:00
+Monday",Tamworth No.1 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 1 hr-Night: 1 hr,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+12 Hours",12 Hours,,,,,,,
+NSW,Transgrid,"22/03/2022 05:00
+Tuesday","22/03/2022 17:00
+Tuesday",Tamworth No.1 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 1 hr-Night: 1 hr,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+12 Hours",12 Hours,,,,,,,
+QLD,Powerlink,"22/03/2022 09:00
+Tuesday","22/03/2022 17:00
+Tuesday",Ross No.2 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"Maintenance
+8 Hours",8 Hours,,,,,,,
+NSW,Transgrid,"23/03/2022 06:00
+Wednesday","23/03/2022 16:00
+Wednesday",Dumaresq - Sapphire WF (8J) 330 kV line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"24/03/2022 06:00
+Thursday","24/03/2022 16:00
+Thursday",Dumaresq - Sapphire WF (8J) 330 kV line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"25/03/2022 06:00
+Friday","25/03/2022 17:00
+Friday",Dumaresq - Sapphire WF (8J) 330 kV line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+11 Hours",11 Hours,,,,,,,
+NSW,Transgrid,"26/03/2022 06:00
+Saturday","26/03/2022 16:00
+Saturday",Armidale - Dumaresq (8C) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"28/03/2022 06:00
+Monday","28/03/2022 16:00
+Monday",Armidale - Dumaresq (8C) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"29/03/2022 06:00
+Tuesday","29/03/2022 17:00
+Tuesday",Armidale - Dumaresq (8C) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+11 Hours",11 Hours,,,,,,,
+NSW,Transgrid,"30/03/2022 06:00
+Wednesday","30/03/2022 16:00
+Wednesday",Armidale - Sapphire WF (8E) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"31/03/2022 06:00
+Thursday","31/03/2022 16:00
+Thursday",Armidale - Sapphire WF (8E) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"Commissioning
+10 Hours",10 Hours,,,,,,,
+NSW,Transgrid,"01/04/2022 06:00
+Friday","01/04/2022 17:00
+Friday",Armidale - Sapphire WF (8E) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+11 Hours",11 Hours,,,,,,,
+TAS,TasNetworks,"04/04/2022 08:00
+Monday","06/04/2022 16:00
+Wednesday",Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"Commissioning
+2.3 Days",2.3 Days,,,,,,,
+QLD,Powerlink,"04/04/2022 08:00
+Monday","04/04/2022 17:00
+Monday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"05/04/2022 08:00
+Tuesday","05/04/2022 17:00
+Tuesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"05/04/2022 10:35
+Tuesday","05/04/2022 16:00
+Tuesday",Strathmore - Ross (8857) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 1.5 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+5.4 Hours",5.4 Hours,,,,,,,
+QLD,Powerlink,"06/04/2022 08:00
+Wednesday","06/04/2022 17:00
+Wednesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"07/04/2022 08:00
+Thursday","07/04/2022 17:00
+Thursday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"08/04/2022 08:00
+Friday","08/04/2022 17:00
+Friday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"09/04/2022 08:00
+Saturday","09/04/2022 17:00
+Saturday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"10/04/2022 08:00
+Sunday","10/04/2022 17:00
+Sunday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"11/04/2022 08:00
+Monday","11/04/2022 17:00
+Monday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"12/04/2022 08:00
+Tuesday","12/04/2022 17:00
+Tuesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"13/04/2022 08:00
+Wednesday","13/04/2022 17:00
+Wednesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"14/04/2022 08:00
+Thursday","14/04/2022 17:00
+Thursday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"19/04/2022 08:00
+Tuesday","19/04/2022 17:00
+Tuesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"20/04/2022 07:00
+Wednesday","20/04/2022 16:00
+Wednesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"20/04/2022 08:00
+Wednesday","20/04/2022 17:00
+Wednesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"21/04/2022 08:00
+Thursday","21/04/2022 17:00
+Thursday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"22/04/2022 08:00
+Friday","22/04/2022 17:00
+Friday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"23/04/2022 08:00
+Saturday","23/04/2022 17:00
+Saturday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"24/04/2022 08:00
+Sunday","24/04/2022 17:00
+Sunday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"26/04/2022 08:00
+Tuesday","26/04/2022 17:00
+Tuesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"27/04/2022 08:00
+Wednesday","27/04/2022 17:00
+Wednesday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"28/04/2022 08:00
+Thursday","28/04/2022 17:00
+Thursday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"28/04/2022 08:30
+Thursday","28/04/2022 17:00
+Thursday",Nebo - Broadsound (8847) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+8.5 Hours",8.5 Hours,,,,,,,
+QLD,Powerlink,"29/04/2022 08:00
+Friday","29/04/2022 17:00
+Friday",Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"29/04/2022 08:30
+Friday","29/04/2022 16:00
+Friday",Nebo - Broadsound (8846) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+7.5 Hours",7.5 Hours,,,,,,,
+VIC,AusNet,"10/05/2022 07:00
+Tuesday","10/05/2022 16:00
+Tuesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"10/05/2022 07:00
+Tuesday","12/05/2022 17:00
+Thursday",Bouldercombe - Nebo (821) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 6 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+2.4 Days",2.4 Days,,,,,,,
+VIC,AusNet,"11/05/2022 07:00
+Wednesday","11/05/2022 16:00
+Wednesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"12/05/2022 07:00
+Thursday","12/05/2022 16:00
+Thursday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"12/05/2022 08:00
+Thursday","12/05/2022 15:00
+Thursday",Strathmore No.1 275/132 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"Commissioning
+7 Hours",7 Hours,,,,,,,
+VIC,AusNet,"13/05/2022 07:00
+Friday","13/05/2022 16:00
+Friday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"17/05/2022 07:00
+Tuesday","17/05/2022 16:00
+Tuesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+QLD,Powerlink,"24/05/2022 07:00
+Tuesday","03/06/2022 17:00
+Friday",Bouldercombe - Broadsound (820) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 120 hrs-Night: 120 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+10.4 Days",10.4 Days,,,,,,,
+QLD,Powerlink,"30/05/2022 07:00
+Monday","17/06/2022 17:00
+Friday",Nebo - Broadsound (8846) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+18.4 Days",18.4 Days,,,,,,,
+VIC,AusNet,"31/05/2022 07:00
+Tuesday","31/05/2022 16:00
+Tuesday",Buronga - Redcliffs (OX1) 220 kV Line.,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+SA,ElectraNet,"06/06/2022 12:30
+Monday","08/06/2022 17:30
+Wednesday",Tailem Bend - South East  No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+2.2 Days",2.2 Days,,,,,,,
+QLD,Powerlink,"08/06/2022 07:00
+Wednesday","08/06/2022 17:00
+Wednesday",Haughton River - Strathmore (879) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 2 hrs-Night: 2 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+SA,ElectraNet,"17/06/2022 08:00
+Friday","23/06/2022 08:15
+Thursday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+6 Days",6 Days,,,,,,,
+SA,ElectraNet,"23/06/2022 08:15
+Thursday","25/06/2022 13:30
+Saturday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+2.2 Days",2.2 Days,,,,,,,
+SA,ElectraNet,"02/07/2022 08:00
+Saturday","06/07/2022 08:00
+Wednesday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+4 Days",4 Days,,,,,,,
+SA,ElectraNet,"06/07/2022 08:00
+Wednesday","09/07/2022 17:30
+Saturday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"Commissioning
+3.4 Days",3.4 Days,,,,,,,
+SA,ElectraNet,"12/07/2022 08:00
+Tuesday","17/07/2022 08:00
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,T,"Commissioning
+5 Days",5 Days,,,,,,,
+SA,ElectraNet,"17/07/2022 08:00
+Sunday","19/07/2022 12:30
+Tuesday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,T,"Commissioning
+2.2 Days",2.2 Days,,,,,,,
+SA,ElectraNet,"19/07/2022 12:30
+Tuesday","21/07/2022 17:30
+Thursday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"Commissioning
+2.2 Days",2.2 Days,,,,,,,
+QLD,Powerlink,"02/08/2022 07:00
+Tuesday","22/08/2022 17:00
+Monday",Nebo - Strathmore (8845) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+20.4 Days",20.4 Days,,,,,,,
+VIC,AusNet,"17/08/2022 07:00
+Wednesday","17/08/2022 17:00
+Wednesday",Jindera - Wodonga (060) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+VIC,AusNet,"18/08/2022 07:00
+Thursday","18/08/2022 17:00
+Thursday",Jindera - Wodonga (060) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+QLD,Powerlink,"29/08/2022 07:00
+Monday","16/09/2022 17:00
+Friday",Nebo - Strathmore (878) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+18.4 Days",18.4 Days,,,,,,,
+QLD,Powerlink,"13/09/2022 07:00
+Tuesday","23/09/2022 17:00
+Friday",Bouldercombe - Broadsound (820) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 120 hrs-Night: 120 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+10.4 Days",10.4 Days,,,,,,,
+VIC,AusNet,"15/09/2022 07:00
+Thursday","15/09/2022 17:00
+Thursday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+VIC,AusNet,"03/10/2022 05:30
+Monday","03/10/2022 15:00
+Monday",Rowville - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9.5 Hours",9.5 Hours,,,,,,,
+VIC,AusNet,"06/10/2022 06:00
+Thursday","06/10/2022 15:00
+Thursday",Hazelwood - Cranbourne 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9 Hours",9 Hours,,,,,,,
+VIC,AusNet,"13/10/2022 06:00
+Thursday","13/10/2022 16:00
+Thursday",Hazelwood - Loy Yang Power Station No.3 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+VIC,AusNet,"14/10/2022 06:00
+Friday","14/10/2022 16:00
+Friday",Hazelwood - Loy Yang Power Station No.3 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+10 Hours",10 Hours,,,,,,,
+QLD,Powerlink,"17/10/2022 07:00
+Monday","03/11/2022 17:00
+Thursday",Nebo - Strathmore (8845) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 24 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+17.4 Days",17.4 Days,,,,,,,
+TAS,TasNetworks,"18/10/2022 07:00
+Tuesday","18/10/2022 15:30
+Tuesday",Gordon - Chapel St 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"Maintenance
+8.5 Hours",8.5 Hours,,,,,,,
+TAS,TasNetworks,"19/10/2022 07:00
+Wednesday","19/10/2022 15:00
+Wednesday",Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"Maintenance
+8 Hours",8 Hours,,,,,,,
+VIC,AusNet,"29/10/2022 05:00
+Saturday","01/11/2022 17:00
+Tuesday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+3.5 Days",3.5 Days,,,,,,,
+VIC,AusNet,"01/11/2022 05:00
+Tuesday","01/11/2022 17:00
+Tuesday",Bendigo - Kerang 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+VIC,AusNet,"02/11/2022 05:00
+Wednesday","02/11/2022 17:00
+Wednesday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 8 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+VIC,AusNet,"03/11/2022 05:00
+Thursday","03/11/2022 17:00
+Thursday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 8 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+VIC,AusNet,"03/11/2022 06:00
+Thursday","03/11/2022 15:30
+Thursday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+9.5 Hours",9.5 Hours,,,,,,,
+VIC,AusNet,"04/11/2022 05:00
+Friday","04/11/2022 17:00
+Friday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 8 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+VIC,AusNet,"05/11/2022 05:00
+Saturday","05/11/2022 17:00
+Saturday",Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 8 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+VIC,AusNet,"15/11/2022 05:00
+Tuesday","15/11/2022 17:00
+Tuesday",Bendigo - Kerang 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Maintenance
+12 Hours",12 Hours,,,,,,,
+QLD,Powerlink,"06/02/2023 17:01
+Monday","03/03/2023 17:00
+Friday",Strathmore No.1 275/132 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+25 Days",25 Days,,,,,,,
+QLD,Powerlink,"04/04/2023 07:00
+Tuesday","05/04/2023 17:00
+Wednesday",Bouldercombe - Nebo (821) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 6 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+1.4 Days",1.4 Days,,,,,,,
+QLD,Powerlink,"05/04/2023 08:00
+Wednesday","19/04/2023 17:00
+Wednesday",Strathmore - Ross (8857) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+14.4 Days",14.4 Days,,,,,,,
+QLD,Powerlink,"20/04/2023 08:00
+Thursday","21/04/2023 17:00
+Friday",Ross No.4 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"Commissioning
+1.4 Days",1.4 Days,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,
