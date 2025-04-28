@@ -1,0 +1,2787 @@
+﻿Region,NSP,Start,Finish,Network Asset,Impact,Recall,Status,"Status and
+Market Notice",Project Work?,Unplanned?,DNSP Aware?,Generator Aware?,Inter-Regional,"Impact Region,
+Reason and
+Duration",Vs Old,Duration,,,,,,,
+VIC,AusNet,"15/04/2024 06:00
+Monday","15/04/2024 19:00
+Monday",Hazelwood - Rowville 500 kV Line,"<<This outage has been WITHDRAWN!>>
+This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 4 hrs-Night: NA,Withdrawn,"Withdrawn
+",,,,,,"VIC
+Maintenance
+13 Hours",#REF!,13 Hours,,,,,,,
+SA,ElectraNet,"16/04/2024 09:30
+Tuesday","16/04/2024 16:30
+Tuesday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 4 hrs-Night: NA,Planned - STLTP,"Planned - STLTP
+",,,,,,"SA
+Maintenance
+7 Hours",#REF!,7 Hours,,,,,,,
+VIC,AusNet,"18/04/2024 06:00
+Thursday","18/04/2024 15:00
+Thursday",Buronga - Redcliffs (OX1) 220 kV Line.,"<<This outage has been WITHDRAWN!>>
+This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Withdrawn,"Withdrawn
+",,,T,T,T,"NSW / VIC
+Maintenance
+9 Hours",#REF!,9 Hours,,,,,,,
+QLD,Powerlink,"19/04/2024 08:00
+Friday","24/04/2024 17:00
+Wednesday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 48 hrs-Night: 48 hrs,Planned - MTLTP,"Planned - MTLTP
+",,,,T,,"QLD
+Maintenance
+5.4 Days",#REF!,5.4 Days,,,,,,,
+TAS,TasNetworks,"19/04/2024 08:00
+Friday","22/04/2024 15:00
+Monday",Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 0 mins-Night: NA,Planned - STLTP,"Planned - STLTP
+",,,,T,,"TAS
+Maintenance
+3.3 Days",#REF!,3.3 Days,,,,,,,
+TAS,TasNetworks,"22/04/2024 15:00
+Monday","26/04/2024 15:00
+Friday",Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 4 hrs-Night: 4 hrs,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,T,,"TAS
+Maintenance
+4 Days",#REF!,4 Days,,,,,,,
+VIC,AusNet,"29/04/2024 07:00
+Monday","29/04/2024 17:00
+Monday",Jindera - Wodonga (060) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW/ VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"29/04/2024 07:30
+Monday","29/04/2024 16:00
+Monday",Nebo - Broadsound (8846) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,T,T,,"QLD
+Maintenance
+8.5 Hours",#REF!,8.5 Hours,,,,,,,
+VIC,AusNet,"30/04/2024 07:00
+Tuesday","30/04/2024 17:00
+Tuesday",Jindera - Wodonga (060) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW/ VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"30/04/2024 08:00
+Tuesday","30/04/2024 15:00
+Tuesday",Broadsound - Nebo (834) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 1 hr-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,T,T,,"QLD
+Maintenance
+7 Hours",#REF!,7 Hours,,,,,,,
+VIC,AusNet,"01/05/2024 07:30
+Wednesday","30/05/2024 16:00
+Thursday",Heywood - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+29.4 Days",#REF!,29.4 Days,,,,,,,
+TAS,TasNetworks,"02/05/2024 10:30
+Thursday","02/05/2024 15:00
+Thursday",Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,T,T,"
+Maintenance
+4.5 Hours",#REF!,4.5 Hours,,,,,,,
+VIC,AusNet,"04/05/2024 07:00
+Saturday","04/05/2024 17:00
+Saturday",Rowville - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"07/05/2024 06:00
+Tuesday","07/05/2024 18:00
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"07/05/2024 06:00
+Tuesday","07/05/2024 17:30
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+NSW,Transgrid,"07/05/2024 07:00
+Tuesday","13/05/2024 17:00
+Monday",Tamworth No.1 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 12 hrs-Night: 12 hrs,Planned - MTLTP,"Planned - MTLTP
+",,,,,,"NSW / QLD
+Commissioning
+6.4 Days",#REF!,6.4 Days,,,,,,,
+NSW,Transgrid,"07/05/2024 07:00
+Tuesday","15/05/2024 17:00
+Wednesday",Armidale - Tamworth (86) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 24 hrs-Night: 24 hrs,Planned - MTLTP,"Planned - MTLTP
+",,,T,T,T,"NSW / QLD
+Commissioning
+8.4 Days",#REF!,8.4 Days,,,,,,,
+VIC,AusNet,"08/05/2024 05:00
+Wednesday","08/05/2024 19:00
+Wednesday",Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+14 Hours",#REF!,14 Hours,,,,,,,
+VIC,AusNet,"08/05/2024 06:00
+Wednesday","08/05/2024 18:00
+Wednesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"08/05/2024 06:00
+Wednesday","08/05/2024 17:30
+Wednesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+QLD,Powerlink,"08/05/2024 08:00
+Wednesday","08/05/2024 15:00
+Wednesday",Nebo - Strathmore (8845) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 1 hr-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,T,T,,"QLD
+Maintenance
+7 Hours",#REF!,7 Hours,,,,,,,
+VIC,AusNet,"09/05/2024 06:00
+Thursday","09/05/2024 18:00
+Thursday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"09/05/2024 06:00
+Thursday","09/05/2024 17:30
+Thursday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"10/05/2024 06:00
+Friday","10/05/2024 18:00
+Friday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"10/05/2024 06:00
+Friday","10/05/2024 17:30
+Friday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"11/05/2024 06:00
+Saturday","11/05/2024 18:00
+Saturday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"11/05/2024 06:00
+Saturday","11/05/2024 17:30
+Saturday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"12/05/2024 06:00
+Sunday","12/05/2024 18:00
+Sunday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"12/05/2024 06:00
+Sunday","12/05/2024 17:30
+Sunday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"12/05/2024 07:00
+Sunday","12/05/2024 17:00
+Sunday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"13/05/2024 06:00
+Monday","13/05/2024 18:00
+Monday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"13/05/2024 06:00
+Monday","13/05/2024 17:30
+Monday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"13/05/2024 07:00
+Monday","13/05/2024 17:30
+Monday",Hazelwood - Rowville 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10.5 Hours",#REF!,10.5 Hours,,,,,,,
+VIC,AusNet,"14/05/2024 06:00
+Tuesday","14/05/2024 18:00
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"14/05/2024 06:00
+Tuesday","14/05/2024 17:30
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"15/05/2024 06:00
+Wednesday","15/05/2024 18:00
+Wednesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"15/05/2024 06:00
+Wednesday","15/05/2024 17:30
+Wednesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"16/05/2024 06:00
+Thursday","16/05/2024 18:00
+Thursday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"16/05/2024 06:00
+Thursday","16/05/2024 17:30
+Thursday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"17/05/2024 06:00
+Friday","17/05/2024 18:00
+Friday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"17/05/2024 06:00
+Friday","17/05/2024 17:30
+Friday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+11.5 Hours",#REF!,11.5 Hours,,,,,,,
+VIC,AusNet,"21/05/2024 06:00
+Tuesday","21/05/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"21/05/2024 06:00
+Tuesday","21/05/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+NSW,Transgrid,"21/05/2024 07:00
+Tuesday","25/05/2024 17:00
+Saturday",Liddell to Muswellbrook (83) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 4 hrs-Night: 4 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW / QLD
+Commissioning
+4.4 Days",#REF!,4.4 Days,,,,,,,
+VIC,AusNet,"22/05/2024 06:00
+Wednesday","22/05/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"22/05/2024 06:00
+Wednesday","22/05/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+QLD,Powerlink,"22/05/2024 07:00
+Wednesday","23/05/2024 16:00
+Thursday",Strathmore - Ross (8857) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,,,"QLD
+Commissioning
+1.4 Days",#REF!,1.4 Days,,,,,,,
+VIC,AusNet,"23/05/2024 06:00
+Thursday","23/05/2024 18:00
+Thursday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"23/05/2024 06:00
+Thursday","23/05/2024 18:00
+Thursday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"24/05/2024 06:00
+Friday","24/05/2024 18:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"24/05/2024 06:00
+Friday","24/05/2024 18:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"25/05/2024 06:00
+Saturday","25/05/2024 18:00
+Saturday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"25/05/2024 06:00
+Saturday","25/05/2024 18:00
+Saturday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"26/05/2024 06:00
+Sunday","26/05/2024 18:00
+Sunday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"26/05/2024 06:00
+Sunday","26/05/2024 18:00
+Sunday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"27/05/2024 06:00
+Monday","27/05/2024 18:00
+Monday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"27/05/2024 06:00
+Monday","27/05/2024 18:00
+Monday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"28/05/2024 06:00
+Tuesday","28/05/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"28/05/2024 06:00
+Tuesday","28/05/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+TAS,TasNetworks,"28/05/2024 08:00
+Tuesday","31/05/2024 10:00
+Friday",Sheffield - Farrell No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 4 hrs-Night: 6 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Commissioning
+3.1 Days",#REF!,3.1 Days,,,,,,,
+VIC,AusNet,"29/05/2024 06:00
+Wednesday","29/05/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"29/05/2024 06:00
+Wednesday","29/05/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"30/05/2024 06:00
+Thursday","30/05/2024 18:00
+Thursday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"30/05/2024 06:00
+Thursday","30/05/2024 18:00
+Thursday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"31/05/2024 06:00
+Friday","31/05/2024 18:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"31/05/2024 06:00
+Friday","31/05/2024 18:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"01/06/2024 06:00
+Saturday","01/06/2024 18:00
+Saturday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"01/06/2024 06:00
+Saturday","01/06/2024 18:00
+Saturday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"02/06/2024 06:00
+Sunday","02/06/2024 18:00
+Sunday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"02/06/2024 06:00
+Sunday","02/06/2024 18:00
+Sunday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"03/06/2024 06:00
+Monday","03/06/2024 18:00
+Monday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"03/06/2024 06:00
+Monday","03/06/2024 18:00
+Monday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+NSW,Transgrid,"03/06/2024 07:00
+Monday","13/06/2024 18:00
+Thursday",Tamworth No.3 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 8 hrs-Night: 8 hrs,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,T,T,T,"NSW / QLD
+Commissioning
+10.5 Days",#REF!,10.5 Days,,,,,,,
+TAS,TasNetworks,"03/06/2024 08:00
+Monday","03/06/2024 14:30
+Monday",Sheffield - Farrell No.2 220 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"
+Commissioning
+6.5 Hours",#REF!,6.5 Hours,,,,,,,
+VIC,AusNet,"04/06/2024 06:00
+Tuesday","04/06/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"04/06/2024 06:00
+Tuesday","04/06/2024 18:00
+Tuesday",Heywood - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"04/06/2024 06:00
+Tuesday","04/06/2024 18:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+NSW,Transgrid,"04/06/2024 07:00
+Tuesday","05/06/2024 17:00
+Wednesday",Liddell to Muswellbrook (83) 330 kV Line,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 4 hrs-Night: 4 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"NSW / QLD
+Commissioning
+1.4 Days",#REF!,1.4 Days,,,,,,,
+VIC,AusNet,"05/06/2024 06:00
+Wednesday","05/06/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"05/06/2024 06:00
+Wednesday","05/06/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"05/06/2024 07:00
+Wednesday","05/06/2024 16:00
+Wednesday",Hazelwood - Rowville 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+9 Hours",#REF!,9 Hours,,,,,,,
+QLD,Powerlink,"05/06/2024 10:00
+Wednesday","07/06/2024 16:00
+Friday",Bouldercombe - Broadsound (820) 275 kV Line,"<<NEW since the last notification>>
+This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: 3 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+2.3 Days",#REF!,2.3 Days,,,,,,,
+VIC,AusNet,"10/06/2024 07:00
+Monday","10/06/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+SA,ElectraNet,"17/06/2024 07:30
+Monday","23/06/2024 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+VIC,AusNet,"18/06/2024 06:30
+Tuesday","18/06/2024 17:00
+Tuesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10.5 Hours",#REF!,10.5 Hours,,,,,,,
+VIC,AusNet,"18/06/2024 06:30
+Tuesday","18/06/2024 17:00
+Tuesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10.5 Hours",#REF!,10.5 Hours,,,,,,,
+VIC,AusNet,"18/06/2024 07:00
+Tuesday","18/06/2024 17:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+SA,ElectraNet,"18/06/2024 09:00
+Tuesday","20/06/2024 16:30
+Thursday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+2.3 Days",#REF!,2.3 Days,,,,,,,
+VIC,AusNet,"19/06/2024 07:00
+Wednesday","19/06/2024 17:00
+Wednesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"19/06/2024 07:00
+Wednesday","19/06/2024 17:00
+Wednesday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"20/06/2024 07:00
+Thursday","20/06/2024 17:00
+Thursday",Red Cliffs-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+SA,ElectraNet,"20/06/2024 16:30
+Thursday","22/06/2024 16:30
+Saturday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+2 Days",#REF!,2 Days,,,,,,,
+SA,ElectraNet,"24/06/2024 07:30
+Monday","30/06/2024 17:30
+Sunday",Tailem Bend - South East  No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+QLD,Powerlink,"25/06/2024 08:00
+Tuesday","27/06/2024 16:00
+Thursday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: 6 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+2.3 Days",#REF!,2.3 Days,,,,,,,
+SA,ElectraNet,"29/06/2024 08:30
+Saturday","29/06/2024 17:30
+Saturday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+9 Hours",#REF!,9 Hours,,,,,,,
+VIC,AusNet,"01/07/2024 06:00
+Monday","01/07/2024 21:00
+Monday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+15 Hours",#REF!,15 Hours,,,,,,,
+SA,ElectraNet,"01/07/2024 07:30
+Monday","07/07/2024 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+VIC,AusNet,"02/07/2024 06:00
+Tuesday","02/07/2024 18:00
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"02/07/2024 06:00
+Tuesday","02/07/2024 18:00
+Tuesday",Moorabool - Haunted Gully 500 kV line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"03/07/2024 07:00
+Wednesday","03/07/2024 17:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"05/07/2024 06:00
+Friday","05/07/2024 21:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+15 Hours",#REF!,15 Hours,,,,,,,
+VIC,AusNet,"05/07/2024 07:00
+Friday","05/07/2024 16:00
+Friday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+9 Hours",#REF!,9 Hours,,,,,,,
+SA,ElectraNet,"08/07/2024 07:30
+Monday","14/07/2024 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+VIC,AusNet,"09/07/2024 07:00
+Tuesday","09/07/2024 17:00
+Tuesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"10/07/2024 06:00
+Wednesday","10/07/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"10/07/2024 06:00
+Wednesday","10/07/2024 18:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+SA,ElectraNet,"29/07/2024 07:30
+Monday","04/08/2024 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+NSW,Transgrid,"02/08/2024 07:00
+Friday","03/08/2024 18:00
+Saturday",Tamworth No.3 330 kV Bus,"A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM",Day: 8 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW / QLD
+Commissioning
+1.5 Days",#REF!,1.5 Days,,,,,,,
+VIC,AusNet,"05/08/2024 06:00
+Monday","05/08/2024 18:00
+Monday",Kerang-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 5 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"05/08/2024 06:00
+Monday","07/08/2024 18:00
+Wednesday",Kerang-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 5 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+2.5 Days",#REF!,2.5 Days,,,,,,,
+SA,ElectraNet,"05/08/2024 07:30
+Monday","11/08/2024 17:30
+Sunday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+VIC,AusNet,"06/08/2024 06:00
+Tuesday","06/08/2024 18:00
+Tuesday",Kerang-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 5 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+QLD,Powerlink,"06/08/2024 12:05
+Tuesday","06/08/2024 15:00
+Tuesday",Haughton River No. 2 275kV BUS,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"QLD
+Maintenance
+2.9 Hours",#REF!,2.9 Hours,,,,,,,
+VIC,AusNet,"07/08/2024 06:00
+Wednesday","07/08/2024 18:00
+Wednesday",Kerang-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 5 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"19/08/2024 07:00
+Monday","19/08/2024 17:00
+Monday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"19/08/2024 07:00
+Monday","19/08/2024 17:00
+Monday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"20/08/2024 06:00
+Tuesday","20/08/2024 18:00
+Tuesday",Kerang-Wemen 220 kV Line,"<<NEW since the last notification>>
+This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"21/08/2024 07:00
+Wednesday","21/08/2024 17:00
+Wednesday",Horsham - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"21/08/2024 07:00
+Wednesday","21/08/2024 17:00
+Wednesday",Horsham - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"22/08/2024 07:00
+Thursday","22/08/2024 18:00
+Thursday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+11 Hours",#REF!,11 Hours,,,,,,,
+VIC,AusNet,"23/08/2024 07:00
+Friday","23/08/2024 18:00
+Friday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+11 Hours",#REF!,11 Hours,,,,,,,
+VIC,AusNet,"24/08/2024 07:00
+Saturday","24/08/2024 17:00
+Saturday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"25/08/2024 06:00
+Sunday","25/08/2024 18:00
+Sunday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"25/08/2024 07:00
+Sunday","25/08/2024 19:00
+Sunday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"26/08/2024 07:00
+Monday","26/08/2024 17:00
+Monday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"26/08/2024 07:00
+Monday","26/08/2024 19:00
+Monday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"27/08/2024 07:00
+Tuesday","27/08/2024 17:00
+Tuesday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"27/08/2024 07:00
+Tuesday","27/08/2024 19:00
+Tuesday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+QLD,Powerlink,"27/08/2024 08:00
+Tuesday","31/08/2024 16:00
+Saturday",Strathmore - Ross (8857) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 48 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+4.3 Days",#REF!,4.3 Days,,,,,,,
+VIC,AusNet,"28/08/2024 07:00
+Wednesday","28/08/2024 17:00
+Wednesday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"28/08/2024 07:00
+Wednesday","28/08/2024 19:00
+Wednesday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"29/08/2024 07:00
+Thursday","29/08/2024 17:00
+Thursday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"29/08/2024 07:00
+Thursday","29/08/2024 19:00
+Thursday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"30/08/2024 07:00
+Friday","30/08/2024 17:00
+Friday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"31/08/2024 07:00
+Saturday","31/08/2024 18:00
+Saturday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+11 Hours",#REF!,11 Hours,,,,,,,
+VIC,AusNet,"31/08/2024 07:00
+Saturday","31/08/2024 17:00
+Saturday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"01/09/2024 07:00
+Sunday","01/09/2024 18:00
+Sunday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+11 Hours",#REF!,11 Hours,,,,,,,
+VIC,AusNet,"01/09/2024 07:00
+Sunday","01/09/2024 17:00
+Sunday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"02/09/2024 07:00
+Monday","02/09/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"02/09/2024 07:00
+Monday","02/09/2024 17:00
+Monday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"03/09/2024 07:00
+Tuesday","03/09/2024 19:00
+Tuesday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"03/09/2024 07:00
+Tuesday","03/09/2024 19:00
+Tuesday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+QLD,Powerlink,"05/09/2024 07:30
+Thursday","05/09/2024 17:00
+Thursday",Nebo - Strathmore (8845) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9.5 Hours",#REF!,9.5 Hours,,,,,,,
+NSW,Transgrid,"09/09/2024 05:30
+Monday","09/09/2024 22:00
+Monday",Balranald - Darlington Point (X5) 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+During this planned outage power transfer will be restricted
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 12 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,T,"NSW / VIC
+Commissioning
+16.5 Hours",#REF!,16.5 Hours,,,,,,,
+VIC,AusNet,"09/09/2024 07:00
+Monday","09/09/2024 17:00
+Monday",Hazelwood - South Morang No.2 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"09/09/2024 07:00
+Monday","09/09/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"10/09/2024 07:00
+Tuesday","12/09/2024 18:00
+Thursday",South Morang - Sydenham No.1 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+2.5 Days",#REF!,2.5 Days,,,,,,,
+VIC,AusNet,"10/09/2024 07:00
+Tuesday","10/09/2024 17:00
+Tuesday",Hazelwood - South Morang No.2 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"11/09/2024 07:30
+Wednesday","11/09/2024 17:00
+Wednesday",Hazelwood - South Morang No.1 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+9.5 Hours",#REF!,9.5 Hours,,,,,,,
+VIC,AusNet,"12/09/2024 07:30
+Thursday","12/09/2024 17:00
+Thursday",Hazelwood - South Morang No.1 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+9.5 Hours",#REF!,9.5 Hours,,,,,,,
+VIC,AusNet,"16/09/2024 07:00
+Monday","16/09/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+TAS,TasNetworks,"17/09/2024 14:00
+Tuesday","17/09/2024 16:30
+Tuesday",Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 1 hr-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,T,,"TAS
+Maintenance
+2.5 Hours",#REF!,2.5 Hours,,,,,,,
+VIC,AusNet,"23/09/2024 07:00
+Monday","23/09/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"24/09/2024 07:00
+Tuesday","26/09/2024 18:00
+Thursday",South Morang - Sydenham No.2 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 24 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+2.5 Days",#REF!,2.5 Days,,,,,,,
+NSW,Transgrid,"30/09/2024 05:30
+Monday","30/09/2024 22:00
+Monday",Jindera - Wagga (62) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer 
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 12 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW/ VIC
+Commissioning
+16.5 Hours",#REF!,16.5 Hours,,,,,,,
+VIC,AusNet,"30/09/2024 07:00
+Monday","30/09/2024 17:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"07/10/2024 06:00
+Monday","07/10/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"12/10/2024 06:00
+Saturday","12/10/2024 16:00
+Saturday",Ararat - Crowlands 220kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"14/10/2024 06:00
+Monday","14/10/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"15/10/2024 06:00
+Tuesday","20/10/2024 17:00
+Sunday",South Morang - Sydenham No.1 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.5 Days",#REF!,5.5 Days,,,,,,,
+VIC,AusNet,"21/10/2024 06:00
+Monday","21/10/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"25/10/2024 06:00
+Friday","25/10/2024 18:00
+Friday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"26/10/2024 06:00
+Saturday","26/10/2024 18:00
+Saturday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"27/10/2024 06:00
+Sunday","27/10/2024 18:00
+Sunday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"28/10/2024 06:00
+Monday","28/10/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"28/10/2024 06:00
+Monday","28/10/2024 18:00
+Monday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"29/10/2024 06:00
+Tuesday","29/10/2024 18:00
+Tuesday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+TAS,TasNetworks,"30/10/2024 13:00
+Wednesday","30/10/2024 15:30
+Wednesday",Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 1 hr-Night: NA,Planned - RESUBMIT,"Planned - RESUBMIT
+",T,,,T,,"TAS
+Commissioning
+2.5 Hours",#REF!,2.5 Hours,,,,,,,
+VIC,AusNet,"31/10/2024 05:00
+Thursday","31/10/2024 17:00
+Thursday",Kerang-Wemen 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"01/11/2024 06:00
+Friday","01/11/2024 16:00
+Friday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/11/2024 06:00
+Monday","04/11/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"09/11/2024 06:00
+Saturday","09/11/2024 16:00
+Saturday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"11/11/2024 06:00
+Monday","11/11/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"12/11/2024 06:00
+Tuesday","12/11/2024 16:00
+Tuesday",Ararat - Crowlands 220kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"18/11/2024 06:00
+Monday","18/11/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"25/11/2024 06:00
+Monday","25/11/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"25/11/2024 08:00
+Monday","29/11/2024 17:00
+Friday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"QLD
+Maintenance
+4.4 Days",#REF!,4.4 Days,,,,,,,
+VIC,AusNet,"02/12/2024 06:00
+Monday","02/12/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"09/12/2024 06:00
+Monday","09/12/2024 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"09/12/2024 06:00
+Monday","09/12/2024 16:00
+Monday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"09/12/2024 08:00
+Monday","11/12/2024 17:00
+Wednesday",Strathmore - Ross (8857) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 6 hrs-Night: 8 hrs,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,T,,"QLD
+Commissioning
+2.4 Days",#REF!,2.4 Days,,,,,,,
+VIC,AusNet,"31/12/2024 06:00
+Tuesday","31/12/2024 17:00
+Tuesday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+11 Hours",#REF!,11 Hours,,,,,,,
+VIC,AusNet,"04/01/2025 06:00
+Saturday","04/01/2025 16:00
+Saturday",Bulgana - Horsham 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/01/2025 06:00
+Saturday","04/01/2025 16:00
+Saturday",Crowland - Bulgana 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"13/01/2025 06:00
+Monday","13/01/2025 18:00
+Monday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"14/01/2025 06:00
+Tuesday","14/01/2025 18:00
+Tuesday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"20/01/2025 06:00
+Monday","20/01/2025 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"27/01/2025 06:00
+Monday","27/01/2025 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"03/02/2025 06:00
+Monday","03/02/2025 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"03/02/2025 06:00
+Monday","03/02/2025 18:00
+Monday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"04/02/2025 06:00
+Tuesday","04/02/2025 16:00
+Tuesday",Bulgana - Horsham 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/02/2025 06:00
+Tuesday","04/02/2025 16:00
+Tuesday",Crowland - Bulgana 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/02/2025 06:00
+Tuesday","04/02/2025 16:00
+Tuesday",Bulgana - Horsham 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"10/02/2025 06:00
+Monday","10/02/2025 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"17/02/2025 06:00
+Monday","17/02/2025 16:00
+Monday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"21/02/2025 06:00
+Friday","21/02/2025 18:00
+Friday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"22/02/2025 06:00
+Saturday","22/02/2025 18:00
+Saturday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"23/02/2025 06:00
+Sunday","23/03/2025 18:00
+Sunday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+28.5 Days",#REF!,28.5 Days,,,,,,,
+VIC,AusNet,"24/02/2025 06:00
+Monday","24/02/2025 16:00
+Monday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"03/03/2025 06:00
+Monday","03/03/2025 16:00
+Monday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"03/03/2025 08:00
+Monday","07/03/2025 17:00
+Friday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+4.4 Days",#REF!,4.4 Days,,,,,,,
+VIC,AusNet,"04/03/2025 06:00
+Tuesday","04/03/2025 16:00
+Tuesday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/03/2025 06:00
+Tuesday","04/03/2025 16:00
+Tuesday",Horsham - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"07/03/2025 05:00
+Friday","13/03/2025 17:00
+Thursday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+QLD,Powerlink,"07/03/2025 17:01
+Friday","19/08/2025 07:59
+Tuesday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+164.6 Days",#REF!,164.6 Days,,,,,,,
+VIC,AusNet,"10/03/2025 06:00
+Monday","10/03/2025 16:00
+Monday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"17/03/2025 06:00
+Monday","19/03/2025 16:00
+Wednesday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+2.4 Days",#REF!,2.4 Days,,,,,,,
+VIC,AusNet,"28/03/2025 06:00
+Friday","28/03/2025 18:00
+Friday",Kiamal SF-Red Cliffs 220 kV LINE,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours,,,,,,,
+VIC,AusNet,"02/04/2025 06:00
+Wednesday","02/04/2025 16:00
+Wednesday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"02/04/2025 06:00
+Wednesday","02/04/2025 16:00
+Wednesday",Huanted Gully - Tarrone 500 Kv line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/04/2025 06:00
+Friday","04/04/2025 16:00
+Friday",Kiamal SF - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/04/2025 06:00
+Friday","04/04/2025 16:00
+Friday",Horsham - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/04/2025 06:00
+Friday","04/04/2025 16:00
+Friday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"04/04/2025 06:00
+Friday","04/04/2025 16:00
+Friday",Horsham - MurraWarra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"05/04/2025 06:00
+Saturday","10/04/2025 18:00
+Thursday",South Morang - Sydenham No.2 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.5 Days",#REF!,5.5 Days,,,,,,,
+VIC,AusNet,"06/04/2025 12:00
+Sunday","06/04/2025 17:00
+Sunday",Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+5 Hours",#REF!,5 Hours,,,,,,,
+VIC,AusNet,"10/04/2025 07:00
+Thursday","10/04/2025 17:00
+Thursday",Rowville - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+QLD,Powerlink,"23/04/2025 08:00
+Wednesday","09/05/2025 17:00
+Friday",Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+16.4 Days",#REF!,16.4 Days,,,,,,,
+VIC,AusNet,"07/05/2025 07:00
+Wednesday","07/05/2025 17:00
+Wednesday",Dederang - Wodonga 330 kV Line,"This is a high-impact outage if the forecast temperature at Red Cliffs is greater than 30 deg. C.
+This line outage offloads X5 220 kV line. 
+Possible load shedding and risk of large reduction in generation in NSW and interconnector capacity between  NSW - Victoria following a credible contingency",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"08/05/2025 07:00
+Thursday","08/05/2025 17:00
+Thursday",Dederang - Wodonga 330 kV Line,"This is a high-impact outage if the forecast temperature at Red Cliffs is greater than 30 deg. C.
+This line outage offloads X5 220 kV line. 
+Possible load shedding and risk of large reduction in generation in NSW and interconnector capacity between  NSW - Victoria following a credible contingency",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"20/05/2025 07:00
+Tuesday","20/05/2025 17:00
+Tuesday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"21/05/2025 07:00
+Wednesday","21/05/2025 17:00
+Wednesday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"21/05/2025 07:00
+Wednesday","21/05/2025 17:00
+Wednesday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"21/05/2025 07:00
+Wednesday","21/05/2025 17:00
+Wednesday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours,,,,,,,
+VIC,AusNet,"22/05/2025 07:00
+Thursday","22/05/2025 15:00
+Thursday",Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 60 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+8 Hours",#REF!,8 Hours,,,,,,,
+VIC,AusNet,"24/06/2025 07:00
+Tuesday","29/06/2025 17:00
+Sunday",South Morang - Sydenham No.1 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.4 Days",#REF!,5.4 Days,,,,,,,
+SA,ElectraNet,"30/06/2025 07:30
+Monday","06/07/2025 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"07/07/2025 07:30
+Monday","13/07/2025 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"14/07/2025 07:30
+Monday","20/07/2025 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+VIC,AusNet,"15/07/2025 07:00
+Tuesday","20/07/2025 17:00
+Sunday",Moorabool–Sydenham No.1 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.4 Days",#REF!,5.4 Days,,,,,,,
+SA,ElectraNet,"21/07/2025 07:30
+Monday","27/07/2025 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"28/07/2025 07:30
+Monday","03/08/2025 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"04/08/2025 07:30
+Monday","10/08/2025 17:30
+Sunday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+VIC,AusNet,"08/08/2025 07:00
+Friday","13/08/2025 17:00
+Wednesday",South Morang - Sydenham No.2 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.4 Days",#REF!,5.4 Days,,,,,,,
+QLD,Powerlink,"19/08/2025 08:00
+Tuesday","24/11/2025 07:59
+Monday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+97 Days",#REF!,97 Days,,,,,,,
+VIC,AusNet,"01/09/2025 07:00
+Monday","06/09/2025 17:00
+Saturday",Moorabool–Sydenham No.2 500 kV Line,A credible contingency event during this planned outage may require market intervention through issuing of directions,Day: 120 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+5.4 Days",#REF!,5.4 Days,,,,,,,
+QLD,Powerlink,"02/09/2025 08:00
+Tuesday","15/09/2025 17:00
+Monday",Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+13.4 Days",#REF!,13.4 Days,,,,,,,
+QLD,Powerlink,"03/11/2025 07:00
+Monday","07/11/2025 15:00
+Friday",Nebo - Broadsound (8846) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 8 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+4.3 Days",#REF!,4.3 Days,,,,,,,
+QLD,Powerlink,"24/11/2025 08:00
+Monday","28/11/2025 17:00
+Friday",Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+4.4 Days",#REF!,4.4 Days,,,,,,,
+QLD,Powerlink,"25/12/2025 08:00
+Thursday","07/01/2026 17:00
+Wednesday",Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+13.4 Days",#REF!,13.4 Days,,,,,,,
+SA,ElectraNet,"29/06/2026 07:30
+Monday","05/07/2026 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"06/07/2026 07:30
+Monday","12/07/2026 17:30
+Sunday",Tailem Bend - South East  No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"13/07/2026 07:30
+Monday","19/07/2026 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+SA,ElectraNet,"20/07/2026 07:30
+Monday","26/07/2026 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"27/07/2026 07:30
+Monday","02/08/2026 17:30
+Sunday",Tailem Bend (6536) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"03/08/2026 07:30
+Monday","09/08/2026 17:30
+Sunday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"28/06/2027 07:30
+Monday","04/07/2027 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"05/07/2027 07:30
+Monday","11/07/2027 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"12/07/2027 07:30
+Monday","18/07/2027 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+SA,ElectraNet,"19/07/2027 07:30
+Monday","25/07/2027 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"26/07/2027 07:30
+Monday","01/08/2027 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"02/08/2027 07:30
+Monday","08/08/2027 17:30
+Sunday",Tailem Bend - Tungkillo No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"26/06/2028 07:30
+Monday","02/07/2028 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"03/07/2028 07:30
+Monday","09/07/2028 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"10/07/2028 07:30
+Monday","16/07/2028 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+SA,ElectraNet,"17/07/2028 07:30
+Monday","23/07/2028 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"24/07/2028 07:30
+Monday","30/07/2028 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"31/07/2028 07:30
+Monday","06/08/2028 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"02/07/2029 07:30
+Monday","08/07/2029 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"09/07/2029 07:30
+Monday","15/07/2029 17:30
+Sunday",Tailem Bend - South East  No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"16/07/2029 07:30
+Monday","22/07/2029 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+SA,ElectraNet,"23/07/2029 07:30
+Monday","29/07/2029 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"30/07/2029 07:30
+Monday","05/08/2029 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"06/08/2029 07:30
+Monday","12/08/2029 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"01/07/2030 07:30
+Monday","07/07/2030 17:30
+Sunday",Tailem Bend - South East  No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"08/07/2030 07:30
+Monday","14/07/2030 17:30
+Sunday",Tailem Bend - South East  No.2 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"15/07/2030 07:30
+Monday","21/07/2030 19:30
+Sunday",Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+6.5 Days",#REF!,6.5 Days,,,,,,,
+SA,ElectraNet,"22/07/2030 07:30
+Monday","28/07/2030 17:30
+Sunday",Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"29/07/2030 07:30
+Monday","04/08/2030 17:30
+Sunday",Tailem Bend - Tungkillo No.1 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+SA,ElectraNet,"05/08/2030 07:30
+Monday","11/08/2030 17:30
+Sunday",Tailem Bend (6595) 275 kV Circuit Breaker,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 6 hrs-Night: 12 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Maintenance
+6.4 Days",#REF!,6.4 Days,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,
+,,,,,,,,"
+",,,,,,,,,,,,,,,

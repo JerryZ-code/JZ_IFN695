@@ -1,0 +1,648 @@
+﻿Region,NSP,Start,Finish,Network Asset,Impact,Recall,Status,"Status and
+Market Notice",Project Work?,Unplanned?,DNSP Aware?,Generator Aware?,Inter-Regional,"Impact Region,
+Reason and
+Duration",Vs Old,Duration
+QLD,Powerlink,44941.33333,44941.66667,Dumaresq - Bulli Creek (8M) 330 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM 
+• Large reduction in generation in NSW if exporting.",Day: 2 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,,,T,"NSW / QLD
+Maintenance
+8 Hours",#REF!,8 Hours
+NSW,Transgrid,44941.33333,44941.66667,Dumaresq - Bulli Creek (8M) 330 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause: 
+• Synchronous separation of the Queensland region from the rest of the NEM 
+• Large reduction in generation in NSW if exporting.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"NSW / QLD
+Maintenance
+8 Hours",#REF!,8 Hours
+TAS,TasNetworks,44950.29167,44950.60417,Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,,T,,"TAS
+Maintenance
+7.5 Hours",#REF!,7.5 Hours
+QLD,Powerlink,44965.29167,44965.70833,Nebo - Strathmore (822) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 3 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,T,,,"QLD
+Commissioning
+10 Hours",#REF!,10 Hours
+TAS,TasNetworks,44965.29167,44965.60417,Gordon - Chapel St No.2 220 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7.5 Hours",#REF!,7.5 Hours
+QLD,Powerlink,44967.33333,44967.66667,Broadsound - Nebo (834) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,T,,,"QLD
+Maintenance
+8 Hours",#REF!,8 Hours
+QLD,Powerlink,44978.33333,44978.70833,Nebo - Strathmore (8845) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 2 hrs-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,T,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+TAS,TasNetworks,44987.58333,44987.625,Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 30 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Commissioning
+60 Minutes",#REF!,60 Minutes
+QLD,Powerlink,44991.70903,45036.70833,Strathmore No.1 275/132 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - MTLTP,"Planned - MTLTP
+",,,T,,,"QLD
+Commissioning
+45 Days",#REF!,45 Days
+TAS,TasNetworks,44992.29167,44992.60417,Gordon - Chapel St No.1 220 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7.5 Hours",#REF!,7.5 Hours
+TAS,TasNetworks,44992.375,44992.58333,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+5 Hours",#REF!,5 Hours
+TAS,TasNetworks,44993.29167,44993.625,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+8 Hours",#REF!,8 Hours
+TAS,TasNetworks,44994.29167,44994.58333,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7 Hours",#REF!,7 Hours
+VIC,AusNet,45003.20833,45006.70833,Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+3.5 Days",#REF!,3.5 Days
+QLD,Powerlink,45005.33333,45009.66667,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+4.3 Days",#REF!,4.3 Days
+VIC,AusNet,45007.20833,45007.70833,Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 6 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours
+VIC,AusNet,45008.20833,45008.70833,Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 6 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours
+VIC,AusNet,45009.20833,45009.70833,Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 6 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours
+VIC,AusNet,45010.20833,45010.70833,Keilor - South Morang 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 6 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+12 Hours",#REF!,12 Hours
+QLD,Powerlink,45013.29167,45016.66667,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 8 hrs-Night: 16 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"
+Commissioning
+3.4 Days",#REF!,3.4 Days
+QLD,Powerlink,45020.29167,45021.70833,Bouldercombe - Nebo (821) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 6 hrs-Night: 8 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"QLD
+Commissioning
+1.4 Days",#REF!,1.4 Days
+QLD,Powerlink,45022.33333,45022.66667,Nebo - Broadsound (8846) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+8 Hours",#REF!,8 Hours
+VIC,AusNet,45028.27083,45028.70833,Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10.5 Hours",#REF!,10.5 Hours
+VIC,AusNet,45033.29167,45033.70833,Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10 Hours",#REF!,10 Hours
+QLD,Powerlink,45033.29167,45033.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45034.29167,45034.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45035.29167,45035.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45036.29167,45036.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+TAS,TasNetworks,45036.375,45036.66667,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7 Hours",#REF!,7 Hours
+QLD,Powerlink,45037.29167,45037.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45038.29167,45038.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45039.29167,45039.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45040.29167,45040.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+QLD,Powerlink,45042.29167,45042.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+VIC,AusNet,45043.25,45043.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+QLD,Powerlink,45043.29167,45043.66667,Stanwell - Broadsound (856) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may result in shedding Far North QLD load and Lilyvale local load.
+
+Following a credible contingency market intervention through issuing of directions may be required. If market intervention is unsuccessful all of North QLD load would be in a credible risk",Day: 4 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Maintenance
+9 Hours",#REF!,9 Hours
+VIC,AusNet,45044.25,45044.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45045.25,45045.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+TAS,TasNetworks,45049.625,45049.66667,Gordon - Chapel St No.2 220 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Commissioning
+60 Minutes",#REF!,60 Minutes
+VIC,AusNet,45055.25,45055.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+QLD,Powerlink,45055.29167,45086.70833,Nebo - Strathmore (878) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,,"QLD
+Commissioning
+31.4 Days",#REF!,31.4 Days
+VIC,AusNet,45056.25,45056.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45057.25,45057.77083,Heywood - Tarrone 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"VIC
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+QLD,Powerlink,45060.35417,45065.66667,Ross No.2 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 4 hrs-Night: 7 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,,,"QLD
+Maintenance
+5.3 Days",#REF!,5.3 Days
+VIC,AusNet,45061.29167,45061.70833,Hazelwood - Loy Yang Power Station No.2 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours
+VIC,AusNet,45062.25,45064.77083,Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+2.5 Days",#REF!,2.5 Days
+VIC,AusNet,45062.29167,45062.70833,Hazelwood - Loy Yang Power Station No.2 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours
+VIC,AusNet,45063.29167,45063.70833,Hazelwood - Loy Yang Power Station No.1 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours
+VIC,AusNet,45064.29167,45064.70833,Hazelwood - Loy Yang Power Station No.1 500 kV Line,"A credible contingency event during this planned outage could cause:
+• A large reduction in generation in Victoria
+• Load shedding in Victoria",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours
+NSW,Transgrid,45065.29167,45067.70833,Jindera - Wagga (62) 330 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C
+This outage offloads the Buronga to Darlington Point X5 220 kV line and restricts power transfer 
+• Between Victoria and New South Wales.
+• Between South Australia and Victoria on Murraylink
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 6 hrs-Night: 6 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,T,T,T,"NSW/ VIC
+Commissioning
+2.4 Days",#REF!,2.4 Days
+VIC,AusNet,45069.25,45069.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45070.25,45070.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45070.27083,45070.70833,Keilor – Sydenham 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10.5 Hours",#REF!,10.5 Hours
+VIC,AusNet,45071.25,45071.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45071.27083,45071.70833,Keilor – Sydenham 500 kV Line,"This is a high impact outage only if the Forecast Operational Demand in Victoria region is greater than 7,000 MW
+A credible contingency event during this planned outage could: 
+• Cause a large reduction in generation in Victoria
+• Restrict power transfer across the Victoria - South Australia interconnector (Heywood interconnector).",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10.5 Hours",#REF!,10.5 Hours
+VIC,AusNet,45072.25,45072.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+QLD,Powerlink,45072.66736,45086.33264,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+13.7 Days",#REF!,13.7 Days
+VIC,AusNet,45075.29167,45075.70833,Ballarat - Waubra 220 kV Line,"This is a high-impact outage only if the forecast temperature at Red Cliffs is greater than 30 °C 
+A credible contingency event during this planned outage may require: 
+• Load shedding in the Victorian outer grid
+• Market intervention through issuing of directions.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC
+Maintenance
+10 Hours",#REF!,10 Hours
+SA,ElectraNet,45075.35417,45096.72917,Cherry Gardens - Tailem Bend 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 16 hrs-Night: 24 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+21.4 Days",#REF!,21.4 Days
+TAS,TasNetworks,45077.35417,45077.68056,Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7.8 Hours",#REF!,7.8 Hours
+SA,ElectraNet,45078.33333,45082.33333,Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Commissioning
+4 Days",#REF!,4 Days
+TAS,TasNetworks,45078.35417,45078.68056,Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+7.8 Hours",#REF!,7.8 Hours
+SA,ElectraNet,45082.33333,45084.5625,Heywood - South East No.1 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 159 hrs-Night: 159 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Commissioning
+2.2 Days",#REF!,2.2 Days
+VIC,AusNet,45083.25,45085.77083,Heywood - South East No.2 275 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,T,"VIC / SA
+Maintenance
+2.5 Days",#REF!,2.5 Days
+QLD,Powerlink,45086.33333,45086.66667,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+8 Hours",#REF!,8 Hours
+QLD,Powerlink,45086.33333,45097.66667,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+11.3 Days",#REF!,11.3 Days
+VIC,AusNet,45089.25,45089.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45090.25,45090.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45091.25,45091.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45092.25,45092.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+VIC,AusNet,45093.25,45093.77083,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+12.5 Hours",#REF!,12.5 Hours
+QLD,Powerlink,45097.66736,45187.33333,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+89.7 Days",#REF!,89.7 Days
+TAS,TasNetworks,45098.625,45098.6875,Gordon - Chapel St No.1 220 kV Line,"<<NEW since the last notification>>
+A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ",Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+1.5 Hours",#REF!,1.5 Hours
+TAS,TasNetworks,45111.625,45111.6875,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 1 hr-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Commissioning
+1.5 Hours",#REF!,1.5 Hours
+SA,ElectraNet,45126.375,45128.6875,Tailem Bend - Tungkillo 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - RESUBMIT,"Planned - RESUBMIT
+",,,,,,"SA
+Maintenance
+2.3 Days",#REF!,2.3 Days
+SA,ElectraNet,45128.6875,45130.6875,Tailem Bend - Tungkillo 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+2 Days",#REF!,2 Days
+SA,ElectraNet,45137.22917,45137.45833,Tailem Bend - Tungkillo 275 kV Line,"A credible contingency event during this planned outage could leave South Australia connected to the NEM only via the South Australian 132 kV network. To maintain system security following this contingency AEMO will need to: 
+• Initiate the orderly separation of SA from the rest of the NEM.               
+• Source increased local regulation FCAS within SA.
+
+During this planned outage power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector). ",Day: 48 hrs-Night: 48 hrs,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"SA
+Maintenance
+5.5 Hours",#REF!,5.5 Hours
+QLD,Powerlink,45138.33333,45156.66667,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+18.3 Days",#REF!,18.3 Days
+VIC,AusNet,45146.27083,45146.70833,Moorabool - Mortlake 500 kV Line,"A credible contingency event during this planned outage could cause
+synchronous separation of the South Australia region from the rest of
+the NEM.
+During this planned outage:
+• Power transfer will be restricted across the Victoria - South Australia interconnector (Heywood interconnector).
+• Post contingent FCAS will be sourced within SA following Separation event.",Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"VIC / SA
+Maintenance
+10.5 Hours",#REF!,10.5 Hours
+QLD,Powerlink,45173.29167,45210.70833,Bouldercombe - Nebo (821) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+37.4 Days",#REF!,37.4 Days
+QLD,Powerlink,45187.33403,45275.66667,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+88.3 Days",#REF!,88.3 Days
+TAS,TasNetworks,45196.29167,45196.66667,Gordon - Chapel St No.1 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+9 Hours",#REF!,9 Hours
+TAS,TasNetworks,45201.29167,45201.625,Gordon - Chapel St No.2 220 kV Line,A credible contingency event during this planned outage could cause a large reduction in generation in Tasmania. ,Day: 2 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+8 Hours",#REF!,8 Hours
+TAS,TasNetworks,45210.29167,45210.63889,George Town - George Town Converter Station 220 kV Line,"<<NEW since the last notification>>
+Tasmania will be separated from the NEM",Day: 3 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,T,,"TAS
+Maintenance
+8.3 Hours",#REF!,8.3 Hours
+QLD,Powerlink,45275.66736,45331.66667,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 0 mins-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+56 Days",#REF!,56 Days
+QLD,Powerlink,45404.33333,45477.70833,Ross No.2 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+73.4 Days",#REF!,73.4 Days
+QLD,Powerlink,45476.33333,45489.70833,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+13.4 Days",#REF!,13.4 Days
+QLD,Powerlink,45574.29167,45586.70833,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+12.4 Days",#REF!,12.4 Days
+QLD,Powerlink,45770.33333,45786.70833,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: 72 hrs-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+16.4 Days",#REF!,16.4 Days
+QLD,Powerlink,45770.33333,45905.70833,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+135.4 Days",#REF!,135.4 Days
+QLD,Powerlink,45770.33333,45915.70833,Ross No.3 288/138/19 kV Transformer,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions. ",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+145.4 Days",#REF!,145.4 Days
+QLD,Powerlink,45902.33333,45915.70833,Strathmore - Ross (8858) 275 kV Line,"This is a high impact outage because the recall time is greater than 30 minutes.
+A credible contingency event during this planned outage may require market intervention through issuing of directions.",Day: NA-Night: NA,Planned - SUBMIT,"Planned - SUBMIT
+",,,,,,"QLD
+Commissioning
+13.4 Days",#REF!,13.4 Days
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
+,,,,,,,,"
+",,,,,,,,
