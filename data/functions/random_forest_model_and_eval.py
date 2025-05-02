@@ -43,7 +43,14 @@ def train_and_evaluate_rf(df, train_model=True, model=None, test_size=0.2, rando
     test_acc = accuracy_score(y_test, y_test_pred)
 
     # --- 7. Get present labels (classes that actually exist)
-    full_label_order = ['0-6 hr', '6-12 hr', '12-24 hr', '24hr-1wk', '1w-1mo', '1+mo']
+    full_label_order = [
+        '0–2.8 hrs',
+        '2.8–9.5 hrs',
+        '9.5–11.0 hrs',
+        '11.0–14.0 hrs',
+        '14.0–20.8 hrs',
+        '20.8+ hrs'
+    ]
     present_labels = [label for label in full_label_order if label in y_test.unique()]
 
 
